@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Sparkles, Image, Compass, ZoomIn, Shield, Users, Award, Heart } from 'lucide-react'
+import { Image, Compass, ZoomIn } from 'lucide-react'
 
 interface GalleryItem {
   id: number
